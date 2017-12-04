@@ -1,6 +1,10 @@
 # Efficient Image Interpolation via Content-Aware Clustering Fusion 
-Dr.    Zongliang Gan  the College of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications
-Prof.  Kaihua Zhang  Jiangsu Key Laboratory of Big Data Analysis Technology, Nanjing University of Information Science and Technology
+Dr.    Zongliang Gan  
+the College of Telecommunications and Information Engineering, Nanjing University of Posts and Telecommunications
+
+Prof.  Kaihua Zhang  
+Jiangsu Key Laboratory of Big Data Analysis Technology, Nanjing University of Information Science and Technology
+
 Please feel free to email Zongliang Gan (ganzl@njupt.edu.cn) 
 
 ## About this project
